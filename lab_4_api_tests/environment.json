@@ -1,0 +1,21 @@
+{
+	"id": "9fd12dfe-53b1-4e5a-90d8-aab7653d084b",
+	"name": "teszteles",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "newTodoId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-11-04T17:25:33.029Z",
+	"_postman_exported_using": "Postman/11.68.2"
+}
